@@ -2,7 +2,9 @@ package nl.tudelft.jpacman.board;
 import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.jupiter.api.Test;
-
+/**
+ * This class tests the Board functionality.
+ */
 public class BoardTest {
     @Test
     public void createBoardTest(){
